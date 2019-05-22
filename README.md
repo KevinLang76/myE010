@@ -2,71 +2,7 @@
 
 Beispiel für einen Aufbau einer Dokumention des Lern- und Entwicklungsprozesses mit Ausgesuchten Unterkapiteln aus einem oder beiden LPI Examen
 
-## Einrichtung forken dieses GitHub Repository für Dokumentation (Kapitel kann in der Kopie gelöscht werden)
 
-Als erster Schritt muss ein GitHub-Account eingerichtet werden. Dieser dient uns später als "Cloud-Speicher" unserer Dokumentation und weiteren Dateien.
-
-Folgende Arbeiten müssen gemacht werden:
-
-**Account erstellen**
-
-1. Auf www.github.com ein Benutzerkonto erstellen (Angabe von Username, E-Mail und Passwort)
-2. E-Mail zur Verifizierung des Kontos bestätigen und anschliessend auf GitHub anmelden
-
-**Forken dieses Repositories**
-
-1. Auf Repository [myE010](https://github.com/w901-fr19-mi/myE010) wechseln.
-2. Klicken Sie oben rechts auf der Seite auf `Fork` .
-
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
-
-Das ist es! Jetzt haben Sie einen `Fork` (Kopie) des Original myE010 Repository und können dessen Inhalte verändern.
-
-Weitere Möglichkeiten siehe [Modul M300 - 10 Toolumgebung](https://github.com/mc-b/M300/tree/master/10-Toolumgebung)
-
-## Dokumentation (Kapitel kann in der Kopie gelöscht werden)
-
-Die Dokumentation erfolgt im Markdownformat, dem Standard Wiki Format von github. Dies geht am Einfachsten direkt auf github.com.
-
-Eine Markdown Übersicht / Syntax etc. finden Sie auf:
-* [Markdown Syntax inkl. Online Demo](http://markdown-syntax.de/Was-ist-Markdown/)
-* [Dokumentation aus dem Modul M300](https://github.com/mc-b/M300/blob/master/80-Ergaenzungen/vcs/03-Markdown.md) 
-
-## Installation (Kapitel kann in der Kopie gelöscht werden)
-
-Es kann entweder Manuell eine Linux VM erstellt werden, wie in [E010](../E010/blob/master/md/10-Linux-System/10-Installation.md) beschrieben oder Sie verwenden Vagrant und holen sich gleichzeitig die 4 Punkte von [E701 - 703.1 Virtual Machine Deployment](../../../E701#topic-703-machine-deployment).
-
-**Vagrant Installation**
-
-Zuerst muss folgende SW Installiert werden:
-* [Git/Bash](https://git-scm.com/downloads)
-* [Vagrant](https://www.vagrantup.com/) 
-* [VirtualBox](https://www.virtualbox.org/)
-
-Wechseln Sie auf die Kommandozeile (*bash* oder *PowerShell*), Erstellen Sie ein neues Verzeichnis und Erzeugen eine VM
-
-	mkdir myVM
-	cd myVM
-	vagrant init centos/7
-	vagrant up
-	
-Das ist es! Jetzt haben Sie eine VM. 
-
-Um darin zu Arbeiten geben Sie `vagrant ssh` ein und wechseln ins Verzeichnis `vagrant`. Dieses Verzeichnis mountet die VM automatisch und zeigt auf `myVM` auf Ihrem Notebook.
-
-	vagrant ssh
-	cd /vagrant
-	ls -l 
-	
-`ls -l` gibt alle Dateien aus. Als einzige Datei sollte die Konfigurationsdatei von vagrant `Vagrantfile` angezeigt werden.
-
-Weitere Informationen siehe [Modul M300 - 20 Infrastruktur-Automatisierung](https://github.com/mc-b/M300/tree/master/20-Infrastruktur).
-
-**Weitere nützliche Programme**
-
-* [Windows SSH Client, putty](https://putty.org)
-* [Grafischer Windows SFTP Client, Bitvise SSH Client](https://www.bitvise.com/ssh-client-download)
-* [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Fahrplan
 ***
