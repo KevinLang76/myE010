@@ -25,11 +25,11 @@ Kapitel aus E010 sind einzeln erarbeitet worden. Kapitel aus E701 in der Gruppe 
 ## Dokumention des Lern- und Entwicklungsprozesses
 ***
 
-### Kapitel: 2.1 Command Line Basics (Status: In Arbeit)
+### Kapitel: 1.1 Linux Evolution and Popular Operating Systems
 
-**Weight**: 3 (Wert aus Exam 010)
+**Weight**: 2
 
-**Beschreibung** des Unterkapitels, z.B. Basiswissen um mit der Kommandozeile von Linux zu arbeiten.
+**Beschreibung** Knowledge of Linux development and major distributions
 
 **Tagesziele**, z.B. Aufbau des Wissen über die Shell. 
 
