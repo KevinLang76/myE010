@@ -44,6 +44,23 @@ Kapitel aus E010 sind einzeln erarbeitet worden. Kapitel aus E701 in der Gruppe 
 **Fazit und Aussicht**: Text
 
 
+### Kapitel 1.3 Open Source Software and Licensing
+
+**Weight**: 2
+
+**Beschreibung**: Open communities and licensing Open Source Software for business
+
+**Tagesziele**: Wissen über Urheberrechte und Lizenzen in Linuxsystemen anschaffen
+
+**Vorgehen**: Theorie lesen
+
+**Arbeitsergebnisse**
+Urheberrecht bedeutet dass dem Urheber eines Werks, also dem Autor eines Buchs, Maler eines Bildes, … das Recht zuerkannt wird, als Einziger darüber zu verfügen, was mit dem Werk passiert.
+Urheber können Rechte, in Form einer Lizenz, an andere weitergegeben
+
+Die Lizenzen für freie und Open-Source-Software dienen dazu, dem Erwerber der Software Dinge zu erlauben, die er laut Urheberrechtsgesetz eigentlich nicht haben dürfte.
+* Copyleft-Lizenz: GPL (u.a. eingesetzt für den Linux Kernel) soll sicherstellen, dass Software, die einmal unter der GPL steht, auch weiter unter der GPL bleibt.
+* Ohne Copyleft: Apache, BSD, MIT. Software kann in seine eigenen Programme integriert und diese Programme in ausführbarer Form weitergeben werden.
 
 
 
