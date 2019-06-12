@@ -41,8 +41,6 @@ Kapitel aus E010 sind einzeln erarbeitet worden. Kapitel aus E701 in der Gruppe 
 * Im Gegensatz zu den beiden großen Linux-Distributionsfirmen Red Hat und Novell/SUSE ist das Debian-Projekt ein Zusammenschluss von Freiwilligen.
 * Der wahrscheinlich populärste Debian-Ableger ist Ubuntu, das von der britischen Firma Canonical Ltd. des südafrikanischen Unternehmers Mark Shuttleworth angeboten wird.
 
-**Fazit und Aussicht**: Text
-
 
 ### Kapitel 1.3 Open Source Software and Licensing
 
@@ -63,8 +61,45 @@ Die Lizenzen für freie und Open-Source-Software dienen dazu, dem Erwerber der S
 * Ohne Copyleft: Apache, BSD, MIT. Software kann in seine eigenen Programme integriert und diese Programme in ausführbarer Form weitergeben werden.
 
 
+### Kapitel 2.1 Command Line Basics
+
+**Weight**: 2
+
+**Beschreibung**: Basics of using the Linux command line
+
+**Tagesziele**: Basic Linux Befehle kennenlernen 
+
+**Vorgehen**: Vorgegebene Fachbegriffe mit hilfe von Google erklären
+
+**Arbeitsergebnisse**
+Bash: Bash ist eine freie Unix-Shell 
+echo: Mit echo kann man Meldungen aus Text und Variabeln dem User zurückgeben
+history: Mit history hat man Zugriff auf die benutzten Befehlen der gleichen terminal session
+PATH environment variable: It is a colon delimited list of directories that your shell searches through when you enter a command 
+export: the export command marks an environment variable to be exported with any newly forked child processes and thus it allows a child process to inherit all marked variables.
+type: type command is used for displaying information about command type
 
 
+
+
+-----------------------
+Vorlage:
+-----------------------
+### Kapitel
+
+**Weight**:
+
+**Beschreibung**:
+
+**Tagesziele**:
+
+**Vorgehen**:
+
+**Arbeitsergebnisse**
+
+**Fazit und Aussicht**:
+
+------------------------------------------
 ## Links
 
 * [Linux Essentials Exam 010](https://www.lpi.org/our-certifications/exam-010-objectives)
