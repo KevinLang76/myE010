@@ -53,6 +53,7 @@ Kapitel aus E010 sind einzeln erarbeitet worden. Kapitel aus E701 in der Gruppe 
 **Vorgehen**: Theorie lesen
 
 **Arbeitsergebnisse**
+
 Urheberrecht bedeutet dass dem Urheber eines Werks, also dem Autor eines Buchs, Maler eines Bildes, … das Recht zuerkannt wird, als Einziger darüber zu verfügen, was mit dem Werk passiert.
 Urheber können Rechte, in Form einer Lizenz, an andere weitergegeben
 
@@ -72,12 +73,12 @@ Die Lizenzen für freie und Open-Source-Software dienen dazu, dem Erwerber der S
 **Vorgehen**: Vorgegebene Fachbegriffe mit hilfe von Google erklären
 
 **Arbeitsergebnisse**
-Bash: Bash ist eine freie Unix-Shell 
-echo: Mit echo kann man Meldungen aus Text und Variabeln dem User zurückgeben
-history: Mit history hat man Zugriff auf die benutzten Befehlen der gleichen terminal session
+* Bash: Bash ist eine freie Unix-Shell 
+* echo: Mit echo kann man Meldungen aus Text und Variabeln dem User zurückgeben
+* history: Mit history hat man Zugriff auf die benutzten Befehlen der gleichen terminal session
 PATH environment variable: It is a colon delimited list of directories that your shell searches through when you enter a command 
-export: the export command marks an environment variable to be exported with any newly forked child processes and thus it allows a child process to inherit all marked variables.
-type: type command is used for displaying information about command type
+* export: the export command marks an environment variable to be exported with any newly forked child processes and thus it allows a child process to inherit all marked variables.
+* type: type command is used for displaying information about command type
 
 
 
