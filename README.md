@@ -31,17 +31,22 @@ Kapitel aus E010 sind einzeln erarbeitet worden. Kapitel aus E701 in der Gruppe 
 
 **Beschreibung** Knowledge of Linux development and major distributions
 
-**Tagesziele**, z.B. Aufbau des Wissen über die Shell. 
+**Tagesziele**, Einführung in Linux 
 
-**Vorgehen**, z.B. Installation einer Ubuntu Linux Umgebung. Durcharbeiten ...., Dokumentation der einzelnen Befehle in ...
+**Vorgehen**, Theorie lesen
 
-**Beispiele und Arbeitsergebnisse**
+**Arbeitsergebnisse**
+* Red Hat wurde 1993 unter dem Namen »ACC Corporation« als Vertriebsfirma für Linux- und Unix-Zubehör gegründet.
+* Die Firma SUSE wurde 1992 unter dem Namen »Gesellschaft für Software- und System-Entwicklung« als Unix-Beratungshaus gegründet.
+* Im Gegensatz zu den beiden großen Linux-Distributionsfirmen Red Hat und Novell/SUSE ist das Debian-Projekt ein Zusammenschluss von Freiwilligen.
+* Der wahrscheinlich populärste Debian-Ableger ist Ubuntu, das von der britischen Firma Canonical Ltd. des südafrikanischen Unternehmers Mark Shuttleworth angeboten wird.
 
-* Starten der Shell: bash bzw. Einloggen.
-* Einfache 'mein Befehl' lösen Variablen nicht auf.
-* Doppelte " lösen Variablen auf.
+**Fazit und Aussicht**, Text
 
-**Fazit und Aussicht**, z.B. Die Durcharbeitung von ... gab mir einen Einblick in die Shell. Das nächste Mal will ich diese im Kapitel ... vertiefen.
+
+
+
+
 
 ## Links
 
