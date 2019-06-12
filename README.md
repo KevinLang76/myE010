@@ -29,11 +29,11 @@ Kapitel aus E010 sind einzeln erarbeitet worden. Kapitel aus E701 in der Gruppe 
 
 **Weight**: 2
 
-**Beschreibung** Knowledge of Linux development and major distributions
+**Beschreibung**: Knowledge of Linux development and major distributions
 
-**Tagesziele**, Einführung in Linux 
+**Tagesziele**: Einführung in Linux 
 
-**Vorgehen**, Theorie lesen
+**Vorgehen**: Theorie lesen
 
 **Arbeitsergebnisse**
 * Red Hat wurde 1993 unter dem Namen »ACC Corporation« als Vertriebsfirma für Linux- und Unix-Zubehör gegründet.
@@ -41,7 +41,7 @@ Kapitel aus E010 sind einzeln erarbeitet worden. Kapitel aus E701 in der Gruppe 
 * Im Gegensatz zu den beiden großen Linux-Distributionsfirmen Red Hat und Novell/SUSE ist das Debian-Projekt ein Zusammenschluss von Freiwilligen.
 * Der wahrscheinlich populärste Debian-Ableger ist Ubuntu, das von der britischen Firma Canonical Ltd. des südafrikanischen Unternehmers Mark Shuttleworth angeboten wird.
 
-**Fazit und Aussicht**, Text
+**Fazit und Aussicht**: Text
 
 
 
