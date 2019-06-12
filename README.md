@@ -80,7 +80,19 @@ PATH environment variable: It is a colon delimited list of directories that your
 * export: the export command marks an environment variable to be exported with any newly forked child processes and thus it allows a child process to inherit all marked variables.
 * type: type command is used for displaying information about command type
 
+### Kapitel 2.3 Using Directories and Listing Files
 
+**Weight**: 3
+
+**Beschreibung**: Navigation of home and system directories and listing files in various locations
+
+**Tagesziele**:
+
+**Vorgehen**:
+
+**Arbeitsergebnisse**
+
+**Fazit und Aussicht**:
 
 
 -----------------------
