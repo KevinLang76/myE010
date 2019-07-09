@@ -15,12 +15,11 @@ Beispiel für einen Aufbau einer Dokumention des Lern- und Entwicklungsprozesses
 | 29.05.19 | 3.2 Searching and Extracting Data from Files<br>3.3 Turning Commands into a Script | 3 + 4 | 
 | 05.06.19 | 4.4 Your Computer on the Network | 2 |
 | 12.06.19 | 702.1 Container Usage - Studium | - |
-| 19.06.19 | 702.1 Container Usage - Umsetzung | 7 (14) |
+| 19.06.19 | 702.1 Container Usage - Umsetzung | 7 |
 | 26.06.19 | LB1 Theoretische Prüfung und Abschluss LB2 | - |
 | 03.07.19 | Sommersporttage | - |
-|          | Total Punkte | 24 (31) !
+|          | Total Punkte | 24 !
 
-Kapitel aus E010 sind einzeln erarbeitet worden. Kapitel aus E701 in der Gruppe mit ....
 
 ## Dokumention des Lern- und Entwicklungsprozesses
 ***
