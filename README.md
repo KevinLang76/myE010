@@ -136,6 +136,7 @@ Linux beachtet Gross-/Kleinschreibung, um so mehr Befehle bereitstellen zu könn
 **Vorgehen**: Vergleich zum Piping in Windows verstehen
 
 **Arbeitsergebnisse**
+
 Piping wird mit dem "|" Zeichen eingegeben. Man kann einen Befehl eingeben und mit der Pipe die Ausgabe manipulieren.
 * cat: Zusammenfügen von Dateien 
 * head, tail: Anfang und Ende von Dateien
