@@ -170,6 +170,24 @@ Mein bevorzugter Linux-Texteditor ist Nano
 
 **Fazit und Aussicht**: Ich habe sonst nie einen Script auf Linux zum laufen gebracht. 
 
+### Kapitel 4.4 Your Computer on the Network
+
+**Weight**: 2
+
+**Beschreibung**: Querying vital networking configuration and determining the basic requirements for a computer on a Local Area Network (LAN).
+
+**Tagesziele**: Wissen wie ich Einsicht in den Status meiner Linuxmaschine bekomme.
+
+**Vorgehen**: Nachlesen und dann auf meiner Linux VM ausprobieren.
+
+**Arbeitsergebnisse**
+* route, ip route show: Anzeigen der IP Routingtabelle
+* ifconfig, ip addr show: Anzeigen der IP-Konfigurationen
+* netstat, ss: Anzeigen von Netzwerkverbindungen, Routingtabellen und Interface Statistiken
+* /etc/resolv.conf, /etc/hosts: In diesen Konfigurationsdateien kann das OS z.B. den DNS eintrag nachschauen.
+
+**Fazit und Aussicht**: Dies ist wichtiges Wissen für die Saubere verwendung von Linux.
+
 
 -----------------------
 Vorlage:
