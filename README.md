@@ -188,24 +188,6 @@ Mein bevorzugter Linux-Texteditor ist Nano
 **Fazit und Aussicht**: Dies ist wichtiges Wissen für die Saubere verwendung von Linux.
 
 
------------------------
-Vorlage:
------------------------
-### Kapitel
-
-**Weight**:
-
-**Beschreibung**:
-
-**Tagesziele**:
-
-**Vorgehen**:
-
-**Arbeitsergebnisse**
-
-**Fazit und Aussicht**:
-
-------------------------------------------
 ## Links
 
 * [Linux Essentials Exam 010](https://www.lpi.org/our-certifications/exam-010-objectives)
