@@ -148,6 +148,28 @@ Piping wird mit dem "|" Zeichen eingegeben. Man kann einen Befehl eingeben und m
 
 **Fazit und Aussicht**: Das Piping in Linux habe ich davor nie angewendet gehabt.
 
+### Kapitel 3.3 Turning Commands into a Script
+
+**Weight**: 4
+
+**Beschreibung**: Turning repetitive commands into simple scripts einer Linuxumgebung Scripts anwenden kann
+
+**Vorgehen**: Angegebene Bekannte zuerst beschreiben.
+
+**Arbeitsergebnisse**
+
+* #! (shebang): Diese Zeichenkombination indiziert Zeilen des Scripts, die beim Aufruf des Files ausgeführt wird 
+* /bin/bash: Definiert das der Script mit der Bash ausgeführt werden soll, und nicht mit einer anderen Shell
+* Variables: Vordefinerte Variabeln sind vom System integriert
+* Arguments: Linuxbefehle in Scripts
+* for loops: Führt dazu das ein Befehl wiederholden Ausgeführt wird.
+* echo: Unter Windows als Ping bekannt
+* Exit status: Wenn ein Script erfolgreich durchgeführt wurde errecht es den Exit Status
+
+Mein bevorzugter Linux-Texteditor ist Nano
+
+**Fazit und Aussicht**: Ich habe sonst nie einen Script auf Linux zum laufen gebracht. 
+
 
 -----------------------
 Vorlage:
