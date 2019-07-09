@@ -123,7 +123,30 @@ PATH environment variable: It is a colon delimited list of directories that your
 Case sensitivity:
 Linux beachtet Gross-/Kleinschreibung, um so mehr Befehle bereitstellen zu können.
 
-**Fazit und Aussicht**:
+**Fazit und Aussicht**: simple globbing verstehe ich nicht.
+
+
+### Kapitel 3.2 Searching and Extracting Data from Files
+
+**Weight**: 3
+
+**Beschreibung**: Search and extract data from files in the home directory
+
+**Tagesziele**: Piping besser kennenlernen
+
+**Vorgehen**: Vergleich zum Piping in Windows verstehen
+
+**Arbeitsergebnisse**
+Piping wird mit dem "|" Zeichen eingegeben. Man kann einen Befehl eingeben und mit der Pipe die Ausgabe manipulieren.
+* cat: Zusammenfügen von Dateien 
+* head, tail: Anfang und Ende von Dateien
+* wc: zählt die Anzahl Wörter, Zeilen
+* sort: Sortiert die Zeilen seiner Eingabe 
+* uniq: Entfernt doppelte Einträge
+* cut: Extrahiert Felder oder Spalten aus seiner Eingabe
+* grep: Sucht in Dateien nach Zeilen mit bestimmtem Inhalt
+
+**Fazit und Aussicht**: Das Piping in Linux habe ich davor nie angewendet gehabt.
 
 
 -----------------------
