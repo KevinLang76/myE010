@@ -86,11 +86,42 @@ PATH environment variable: It is a colon delimited list of directories that your
 
 **Beschreibung**: Navigation of home and system directories and listing files in various locations
 
-**Tagesziele**:
+**Tagesziele**: Repetition der Orientierung in der Linuxumgebung
 
-**Vorgehen**:
+**Vorgehen**: Mir bekannte Befehle notieren und weitere mir wichtig erscheinende neue Befehle nachlesen.
+
+**Arbeitsergebnisse**: 
+* ls: Liste aktueller Unterordner
+* cd ~: Wechsel ins eigene Home-Verzeichnis
+* cd -: Auf das zuletzt verwendete Verzeichnis wechseln
+* sudo: Ausführen eines Befehls als root (Admin)
+* mount: einhängen/aushängen und anzeigen von Filesystemen
+* mv: (move) verschieben einer Datei
+* mkdir: Neues Verzeichnis (Ordner) erstellen
+
+**Fazit und Aussicht**: Mit etwas einlernen kann ich wieder die Wichtigsten Befehle auswendig
+
+### Kapitel 2.4 Creating, Moving and Deleting Files
+
+**Weight**: 2
+
+**Beschreibung**: Create, move and delete files and directories under the home directory
+
+**Tagesziele**: Lernen wie ich mit Dateien im Linuxverzeichnisumfeld umgehen kann
+
+**Vorgehen**: Bedeutung der Angegebenen Befehlen nachlesen.
 
 **Arbeitsergebnisse**
+* mv: (move) verschieben einer Datei
+* cp: (copy) kopieren einer Datei
+* rm: (remove) löschen einer Datei
+* touch: Zugriffs- und Änderungs-Zeitstempel von Dateien ändern, oder neue Datei erstellen
+* mkdir: Neues Verzeichnis (Ordner) erstellen
+* rmdir: Löschen eines leeren Verzeichnis
+* rm: Löschen eines Verzeichnis und dessen Inhalt
+
+Case sensitivity:
+Linux beachtet Gross-/Kleinschreibung, um so mehr Befehle bereitstellen zu können.
 
 **Fazit und Aussicht**:
 
